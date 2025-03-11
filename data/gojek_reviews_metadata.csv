@@ -1,0 +1,10 @@
+Feature Name,Description
+review_id,Unique identifier for each review
+user_id,Unique identifier for the user who submitted the review
+date,Date when the review was submitted
+rating,"User rating given in the review (e.g., 1-5 stars)"
+review_text,The textual content of the user review
+app_version,Version of the Gojek app used by the user
+device_type,"Type of device used to submit the review (e.g., Android, iOS)"
+sentiment,"Sentiment label of the review (e.g., positive, negative, neutral) if available"
+topic,"Detected topic of the review (e.g., ride experience, app usability, service quality)"
