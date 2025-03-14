@@ -5,6 +5,7 @@ adapun
 agak
 agaknya
 agar
+aja
 akan
 akankah
 akhir
@@ -237,6 +238,8 @@ enggak
 enggaknya
 entah
 entahlah
+ga
+gak
 guna
 gunakan
 hal
@@ -475,6 +478,7 @@ naik
 namun
 nanti
 nantinya
+nya
 nyaris
 nyatanya
 oleh
@@ -735,6 +739,7 @@ tutur
 tuturnya
 ucap
 ucapnya
+udah
 ujar
 ujarnya
 umum
@@ -756,3 +761,4 @@ yaitu
 yakin
 yakni
 yang
+yg
